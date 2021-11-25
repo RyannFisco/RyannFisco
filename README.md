@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyannFisco
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning php and pyton
+- 🌱 I’m currently learning C# and php
 - 💞️ I’m looking to collaborate on several projects
 - 📫 How to reach me chama no DD
 
